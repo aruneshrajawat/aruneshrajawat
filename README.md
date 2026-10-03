@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 Currently building AI/ML projects in NLP and Computer Vision with real-world applications  <br><br>👯 Open to collaborating on impactful AI projects, especially in automation and intelligent systems  <br><br>🤝 Seeking guidance in advanced deep learning architectures and production-level deployment  <br><br>🌱 Exploring Transformers, Edge AI, and performance optimization techniques  <br><br>💬 Ask me about Python, PyTorch, NLP pipelines, and ML model building  <br><br>⚡ Fun fact: I prefer building and understanding systems from scratch rather than relying on AI-generated solutions
-
+Founder @OP26X
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arunesh-singh-rajawat-5b48b230a)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aruneshsinghrajawat@gmail.com) 
